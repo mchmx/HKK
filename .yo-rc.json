@@ -1,0 +1,10 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "mchmx",
+      "license": "Apache 2",
+      "author": "Matt C",
+      "boilerplate": "appstore"
+    }
+  }
+}
